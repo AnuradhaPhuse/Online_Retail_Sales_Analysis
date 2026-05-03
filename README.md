@@ -1,3 +1,5 @@
+Online Retail Sales Analysis Project
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on an Online Retail dataset using Python. The analysis focuses on customer purchasing behavior, product performance, sales trends, and business insights using various data visualization techniques.
